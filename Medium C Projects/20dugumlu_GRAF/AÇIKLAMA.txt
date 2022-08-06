@@ -1,2 +1,0 @@
-"GRAF.jpeg" de yer alan graf yapısından, bir düğümün koparılması sonucu 
-grafin iki ayrık parçaya ayrılıp ayrılmayacağını bulan kod.
