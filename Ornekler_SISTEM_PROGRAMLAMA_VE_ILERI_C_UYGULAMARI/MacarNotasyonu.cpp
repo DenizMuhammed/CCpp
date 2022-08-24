@@ -1,5 +1,5 @@
 
-// Hungarian Notation (Macar Gösterimi)
+// Hungarian Notation (Macar Gosterimi)
 
 #include <stdio.h>
 #include <windows.h > 
@@ -42,7 +42,7 @@ int main ()
 
 
 
-//Macar Notasyonunda Önek ve Tür:
+//Macar Notasyonunda Ã–nek ve TÃ¼r:
 #if 0 
 
 c char 
@@ -54,7 +54,7 @@ pl long *
 s short 
 pv void *
 f float
-psz (zero terminated) Yazý gösteren
+psz (zero terminated) YazÃ½ gÃ¶steren
 string  char *
 u unsigned int 
 b BYTE
