@@ -20,7 +20,7 @@ int asal(int p)
 
 int main(int argc, char **argv)
 {
-     const int N=720;
+     const int N=100;
      int B_A=0; // A-B farki
      
      for(int i=0; i<=N; i++)
